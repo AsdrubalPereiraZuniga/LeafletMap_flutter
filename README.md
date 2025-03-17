@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # LeafletMap_flutter
  Laboratorio#2 de móviles. Integración de mapa Leaflet, visualización de dos marcadores origen (blue), destino (red), además de calcular su distancia en línea recta
 =======
@@ -19,3 +20,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> e41991b (first commit)
+=======
+# LeafletMap_flutter
+ Laboratorio#2 de móviles. Integración de mapa Leaflet, visualización de dos marcadores origen (blue), destino (red), además de calcular su distancia en línea recta
+>>>>>>> 5197296945d9e667f5bf859e5bc19be326cc79d3
